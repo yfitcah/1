@@ -1,9 +1,9 @@
 {
+    "ver": "20230915-2",
+    "offline": true,
     "shards": {
         "SA_AIO.shard": "3a68cc653c6b66b195781f79e1d306a7",
         "[Xi] Gwen.shard": "065dd392b8d15ee226f4626a035e06d1",
         "[Xi] Auto Yuumi.shard": "a301d181106db5dd8590c2850a76c745"
-    },
-    "ver": "20230915-2",
-    "offline": true
+    }
 }
